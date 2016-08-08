@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MicrosoftImageCrawler.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Source" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">%userprofile%\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets\</Value>
+    </Setting>
+    <Setting Name="Destination" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\JPG\Microsoft</Value>
+    </Setting>
+    <Setting Name="MinWidth" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1081</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
